@@ -1,1 +1,21 @@
 # MULTITHREADED-CHAT-APPLICATION
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: GOPIKRUSHNA SAMAL
+
+*INTERN ID*: CT06DF497
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+## TASK IS MULTITHREADED CHAT APPLICATION,VS CODE IS USED
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5d1fadeb-c995-4fc6-8d20-6365eadc9537)
+
+![Image](https://github.com/user-attachments/assets/9681ab80-c5af-46e0-ba81-527262ec5a2d)
